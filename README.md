@@ -30,9 +30,13 @@
 <p>1. <strong>Treinamento de Cores:</strong> O usuário pode treinar o sistema pressionando os botões correspondentes às cores desejadas. O Arduino acende o LED correspondente à cor e coleta leituras do LDR.</p>
 <p>2. <strong>Calibração:</strong> O sistema também pode ser calibrado para as cores preta e branca. Durante a calibração, o sistema coleta leituras do LDR quando o botão de calibração é pressionado.</p>
 
+![image](https://github.com/user-attachments/assets/f1bcb996-0596-49dc-918f-f79a88706e66)
+
 <h3>Predição</h3>
 <p>1. <strong>Recebimento de Dados:</strong> Após o treinamento, o sistema pode prever a cor de entrada com base nas leituras atuais do LDR. O usuário confirma o treinamento pressionando o botão de confirmação.</p>
 <p>2. <strong>Predição e Exibição:</strong> O sistema usa o perceptron treinado para prever a cor com base nas leituras do LDR e exibe a cor predita no display LCD.</p>
+
+![image (1)](https://github.com/user-attachments/assets/ddb5fdb4-cf43-478b-a086-e0864a927c6a)
 
 <h2>Código</h2>
 <p>O código para o Arduino é dividido em várias funções principais:</p>
@@ -50,6 +54,8 @@
     <li><strong><code>treinarPerceptron()</code></strong>: Treina o perceptron com base nas leituras.</li>
     <li><strong><code>preverPerceptron()</code></strong>: Faz previsões usando o perceptron treinado.</li>
 </ul>
+
+![Imagem do WhatsApp de 2024-06-19 à(s) 15 35 28_d9c5f27a](https://github.com/user-attachments/assets/a2fd6a8e-04fa-4d90-b797-c34a9cf219bd)
 
 <h2>Como Usar</h2>
 <ol>
