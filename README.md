@@ -17,6 +17,8 @@
     <li><strong>Fonte de alimentação para o Arduino</strong></li>
 </ul>
 
+![image](https://github.com/user-attachments/assets/de30a223-dace-4df4-b1e6-0023cf8bb7ea)
+
 <h2>Funcionamento</h2>
 
 <h3>Setup Inicial</h3>
