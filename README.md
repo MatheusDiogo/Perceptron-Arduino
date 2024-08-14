@@ -64,3 +64,5 @@
     <li><strong>Treine o Sistema:</strong> Pressione os botões correspondentes para treinar o sistema nas cores desejadas.</li>
     <li><strong>Realize Predições:</strong> Após o treinamento, o sistema pode prever a cor com base nas leituras atuais do LDR e mostrar o resultado no LCD.</li>
 </ol>
+
+Você pode encontrar a apresentação do projeto no <a href="https://drive.google.com/drive/u/2/folders/1Qbx11p6LOxqx_xfHMeIbv3NqFVKIwZ-T">link</a>.
