@@ -65,4 +65,6 @@
     <li><strong>Realize Predições:</strong> Após o treinamento, o sistema pode prever a cor com base nas leituras atuais do LDR e mostrar o resultado no LCD.</li>
 </ol>
 
+![image](https://github.com/user-attachments/assets/09e27930-e370-492d-9e96-addd1eb6b65b)
+
 Você pode encontrar a apresentação do projeto no <a href="https://drive.google.com/drive/u/2/folders/1Qbx11p6LOxqx_xfHMeIbv3NqFVKIwZ-T">link</a>.
